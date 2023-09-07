@@ -226,7 +226,11 @@ header .nav2 ul li{
 } */
 /* end past event */
 
-
+.footer-top h4{
+    font-family: newJuneBoldFont;
+    width: 90%;
+    margin: auto;
+}
 
 /* start footer */
 footer{
@@ -336,6 +340,10 @@ footer form .btn{
     .past-event .img-part {
         height: 280px;
     }
+    .footer-top h4{
+        width: 100%;
+        font-size: 21px;
+    }
 
     footer .logo{
         margin-bottom: 20px;
@@ -375,7 +383,11 @@ footer form .btn{
         font-size: 14px;
         line-height: 21px;
     }   
-
+    .footer-top h4{
+        width: 85%;
+        font-size: 18px;
+        text-align: center;
+    }
 
     footer h5 {
         font-size: 15px;
